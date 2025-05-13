@@ -1,0 +1,20 @@
+{
+  "name": "Gestão de Clientes - Lash",
+  "short_name": "LashGestão",
+  "start_url": "clientes.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
